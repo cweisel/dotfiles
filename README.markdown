@@ -1,11 +1,11 @@
-# rgbkrk's dotfiles
+# cweisel's dotfiles
 
 ## dotfiles
 
 Your dotfiles are how you personalize your system. These are mine, forked from
-@smashwilson's (in the complete fork fork).
+@rgbkrk's (in the complete fork fork fork).
 
-Now that I work at Rackspace, I'm spending more time spinning up and tearing
+Now that I'm doing more devops work at OnShift, I'm spending more time spinning up and tearing
 down these little scratch servers, and nothing makes me sad like a plain bash
 prompt with no colors or git zazz, or a completely vanilla vim that does
 indentation all wrong.
@@ -14,8 +14,8 @@ Traditionally I haven't done a _ton_ of customizations, but maybe now that I've
 got a place to stash them, that'll change!
 
 I forked @holman's because I like the level of organization he's got, and because
-there were some nifty tricks in there that'll be useful. I don't use zsh or a
-Mac at the moment, but the basics mechanics of installation and the path munging
+there were some nifty tricks in there that'll be useful. I don't use zsh 
+at the moment, but the basics mechanics of installation and the path munging
 are all here, so why re-invent the wheel?
 
 ## install
